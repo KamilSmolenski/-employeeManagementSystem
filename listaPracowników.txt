@@ -1,0 +1,48 @@
+Imię: Adam
+Nazwisko: Miauczyński
+Staż pracy: 20
+Wynagrodzenie: 2200
+Stanowisko: drugi menadżer
+
+Imię: Ana
+Nazwisko: Smith
+Staż pracy: 5
+Wynagrodzenie: 10000
+Stanowisko: menadżer
+
+Imię: Jakub
+Nazwisko: Nowak
+Staż pracy: 2
+Wynagrodzenie: 4500
+Stanowisko: młodszy deweloper
+
+Imię: Jan
+Nazwisko: Adam
+Staż pracy: 3
+Wynagrodzenie: 6666
+Stanowisko: product owner
+
+Imię: Jerzy
+Nazwisko: Rutkowski
+Staż pracy: 1
+Wynagrodzenie: 2300
+Stanowisko: stażysta
+
+Imię: Karol
+Nazwisko: Zięba
+Staż pracy: 5
+Wynagrodzenie: 8000
+Stanowisko: scrum master
+
+Imię: Wiktor
+Nazwisko: Kowalski
+Staż pracy: 9
+Wynagrodzenie: 6500
+Stanowisko: deweloper
+
+Imię: Zenon
+Nazwisko: Małysz
+Staż pracy: 15
+Wynagrodzenie: 8500
+Stanowisko: starszy deweloper
+
